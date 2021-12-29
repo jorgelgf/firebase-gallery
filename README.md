@@ -1,4 +1,4 @@
-# Projeto simples para galeria de fotos usando Firebase
+# Projeto simples para galeria de fotos usando Firebase + Typescript
 
 ## Desktop
 
